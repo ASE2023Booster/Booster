@@ -1,0 +1,6 @@
+    except Exception as e:
+        print(e)
+        traceback_str = ''.join(traceback.format_tb(e.__traceback__))
+        print(traceback_str)
+
+    os.system("adb shell am force-stop "+package_name)
