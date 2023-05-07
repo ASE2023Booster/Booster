@@ -23,19 +23,19 @@ We make minor changes to the inputs and outputs of SimplyDroid to apply SimplyDr
 
 #### Environment
 
-- JAVA 8
-- Python environment required by SARA
-- ADB, connected with Android Emulators or physical devices
+- JAVA 8;
+- Python environment required by SARA;
+- ADB, connected with Android Emulators or physical devices.
 
 #### Configuration
 
 - Change the LOCAL_PATH attribute and paths and file names in "generatePackage", "generateMainActivity", "getOracleFile" functions of cn.edu.buaa.ReductionRunner.java;
 - Change the reduction type and trace name in the main function of cn.edu.buaa.ReductionRunner.java;
-- Change the source script path of SARA in cn.edu.buaa.util.GenerateScript.java
+- Change the source script path of SARA in cn.edu.buaa.util.GenerateScript.java.
 
 #### Run
 
-- Run the main function in cn.edu.buaa.ReductionRunner.java
+- Run the main function in cn.edu.buaa.ReductionRunner.java.
 
 
 
