@@ -1,10 +1,5 @@
 package cn.edu.buaa.reduction;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.LineNumberReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -17,7 +12,6 @@ import cn.edu.buaa.ReductionRunner;
 // import cn.edu.buaa.command.AdbOperation;
 import cn.edu.buaa.state.EventQueueOperation;
 import cn.edu.buaa.state.EventState;
-import cn.edu.buaa.util.GenerateScript;
 import cn.edu.buaa.util.MD5;
 
 public class BalancedHierarchicalDeltaDebugging {

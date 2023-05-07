@@ -4,7 +4,6 @@ import cn.edu.buaa.reduction.DeltaDebugging;
 import cn.edu.buaa.reduction.HierarchicalDeltaDebugging;
 
 import java.io.File;
-import java.io.IOException;
 import java.nio.file.Files;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
